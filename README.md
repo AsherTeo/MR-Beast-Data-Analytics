@@ -16,8 +16,13 @@ This project features a comprehensive analysis dashboard for MrBeast's content. 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Screenshots
-![Include screenshots or images of you![MR Beast Dashboard_1](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/caa70c8e-cd48-47df-ae96-caa425d2a201)
-r dashboard]
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| ![Image 1](![MR Beast Dashboard_1](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/ee98c121-a7ca-4a0c-b0e6-93f8ca874358)| ![Image 2] ![MR Beast Dashboard_2](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/b5ed9d7a-a844-4779-9cce-43d2d252239e)
+
+| Screenshot 3 | Screenshot 4 |
+|--------------|--------------|
+| ![Image 3](url_to_image_3) | ![Image 4](url_to_image_4) |
 
 ## **Installation**
 
