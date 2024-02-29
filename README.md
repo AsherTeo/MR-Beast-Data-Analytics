@@ -68,21 +68,8 @@ Exploratory Data Analysis (EDA) utilizes statistical techniques and visualizatio
 
 ### 4) Machine Learning Analysis
 
-In the realm of machine learning, our approach encompasses several key phases to unlock insights from MrBeast's video data:
-
-Data Preprocessing:
-
-We initiate with data normalization using a standard scaler, ensuring uniformity across numerical features.
-Model Selection and Cross-Validation:
-
-Employing a diverse set of regression-based models, including Decision Trees, Random Forest, and XGB, we apply a robust 10-fold cross-validation. Metric scores like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared provide comprehensive model evaluation.
-Hyperparameter Tuning:
-
-To refine model performance, we utilize grid search for hyperparameter optimization. This process involves identifying optimal configurations for each model, enhancing predictive accuracy.
-Performance Evaluation:
-
-Post hyperparameter tuning, we reevaluate the models using the selected metrics to gauge the resulting improvement in predictive capabilities.
-This iterative and methodical approach ensures a thorough exploration of machine learning models, optimizing their performance for insightful analysis of MrBeast's video landscape.
+Feature engineering is followed by standardization of numerical data using the Standard Scaler. This step ensures that all numerical features are normalized to the same range, preventing certain features from dominating others during model training. A variety of regression models, including Decision Tree, Random Forest, XGBoost, and others, are considered for predicting numerical metrics like view count or engagement ratios. The dataset undergoes 10-Fold cross-validation to assess the model's performance across different subsets of the data, providing a robust evaluation. The performance of each model is evaluated using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared score. These metrics provide insights into how well the models are capturing the variance in the target variable and making accurate predictions. To further enhance the models, a grid search is employed to fine-tune hyperparameters. This systematic search over a predefined hyperparameter space helps identify the optimal set of hyperparameters for each model. The process involves exploring different combinations of hyperparameters to maximize predictive performance. After hyperparameter tuning, the models are re-evaluated using the same metrics (MSE, MAE, R-squared score). This step ensures that the adjustments made during hyperparameter tuning lead to improvements in model performance.
+Ultimately, the best-performing model is identified based on the lowest MSE score. Ensemble models, including Ensemble without hyperparameter tuning, Random Forest with hyperparameter tuning, and Extra Tree with hyperparameter tuning, emerge as the top contenders.
 
 ## **Installation**
 
