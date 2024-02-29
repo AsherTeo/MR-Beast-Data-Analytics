@@ -78,6 +78,15 @@ After hyperparameter tuning, the models are re-evaluated using the same metrics 
 
 Finally, the best model is determined based on the lowest MSE score. Ensemble models, including Ensemble without hyperparameter tuning, Random Forest with hyperparameter tuning, and Extra Tree with hyperparameter tuning, emerge as the top contenders.
 
+| Model | Metric 1 (e.g., MSE) | Metric 2 (e.g., MAE) | Metric 3 (e.g., R-squared) |
+|-------|----------------------|----------------------|-----------------------------|
+| Decision Tree | Value | Value | Value |
+| Random Forest | Value | Value | Value |
+| XGBoost | Value | Value | Value |
+| Ensemble (No Tuning) | Value | Value | Value |
+| Random Forest (Tuned) | Value | Value | Value |
+| Extra Tree (Tuned) | Value | Value | Value |
+
 ## **Installation**
 
 The code is developed using Python version 3.7.16. If Python is not already installed on your system, you can download it [here](https://www.python.org/downloads/). If your current Python version is lower than 3.7.16, you can upgrade it using the pip package manager. Make sure you have the latest version of pip installed. To install the necessary packages and libraries, execute the following command in the project directory after cloning the repository:
