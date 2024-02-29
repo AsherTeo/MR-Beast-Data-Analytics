@@ -52,7 +52,7 @@ The primary objective of this project is to employ machine learning techniques, 
 ## Methodology
 
 ### 1) Data Extraction
-The first phase involves extracting data from the YouTube API. Python is employed for this task, utilizing appropriate libraries to connect to the API and retrieve relevant information about MrBeast's video content.
+In the initial phase, data extraction from the YouTube API is executed using Python. The process involves utilizing the `googleapiclient` libraries to establish a connection with the API. This connection facilitates the retrieval of essential information, encompassing the video's Title, publishedAt timestamp, viewCount, likeCount, commentCount, duration, and a comprehensive set of 1000 comments for all of MrBeast's video content.
 
 ### 2) Data Wrangling
 Data wrangling is performed using the `pandas` library in Python. This includes cleaning and organizing the raw data obtained from the YouTube API, handling missing values, and ensuring data quality for subsequent analysis.
