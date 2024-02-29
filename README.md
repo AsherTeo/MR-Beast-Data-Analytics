@@ -20,7 +20,7 @@ The dashboard boasts a user-friendly interface, making it easy for users to expl
 
 ## Objective
 
-The primary objective of this project is to provide a detailed analysis of MrBeast's content, uncovering patterns, trends, and insights that contribute to a comprehensive understanding of his video landscape. The focus is on leveraging Python as the main tool to perform all aspects of data work, including data wrangling, exploratory data analysis (EDA), and machine learning.
+The primary objective of this project is to employ machine learning techniques, specifically using `scikit-learn` in Python, to predict the view count of MrBeast's videos. This overarching goal involves leveraging Python as the primary tool for all data-related tasks, including data wrangling, exploratory data analysis (EDA), and the development of predictive models.
 
 ### Specific Objectives:
 
