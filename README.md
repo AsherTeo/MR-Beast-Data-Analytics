@@ -55,7 +55,7 @@ The primary objective of this project is to employ machine learning techniques, 
 In the initial phase, data extraction from the YouTube API is executed using Python. The process involves utilizing the `googleapiclient` libraries to establish a connection with the API. This connection facilitates the retrieval of essential information, encompassing the video's Title, publishedAt timestamp, viewCount, likeCount, commentCount, duration, and a comprehensive set of 1000 comments for all of MrBeast's video content.
 
 ### 2) Data Wrangling
-Data wrangling is executed through the use of the pandas library in Python. This process encompasses several crucial steps, starting with the cleaning and organization of raw data obtained from the YouTube API. Tasks involve handling missing values, adjusting the data types of each feature to their correct formats, and implementing specific text manipulations.
+Data wrangling is executed through the use of the `pandas` library in Python. This process encompasses several crucial steps, starting with the cleaning and organization of raw data obtained from the YouTube API. Tasks involve handling missing values, adjusting the data types of each feature to their correct formats, and implementing specific text manipulations.
 
 Text tokenization is performed, and any tokens beginning with '$' are replaced to convey monetary values. For instance, '$ 800,000' is transformed into the identifier 'money'. Similarly, numeric values are standardized, with both '1' and '100' represented as 'number' for consistency.
 
