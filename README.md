@@ -16,6 +16,7 @@ The dashboard boasts a user-friendly interface, making it easy for users to expl
 - Data wrangling with the `pandas` library.
 - Statistical analysis and data visualization.
 - Utilization of `nltk` and `strings` libraries for data cleaning and NLP tasks.
+- Application of machine learning techniques, specifically with `scikit-learn`, for predictive modeling.
 - User-friendly interface for easy exploration.
 
 ## Objective
