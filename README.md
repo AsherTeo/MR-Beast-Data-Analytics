@@ -102,6 +102,8 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 | Random Forest | Value | Value | Value |
 | Extra Tree | Value | Value | Value |
 
+</div>
+
 ### 5) Conclusion
 
 ## **Installation**
