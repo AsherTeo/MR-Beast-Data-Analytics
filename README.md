@@ -82,7 +82,7 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 
 | Model            | MSE   | MAE   | R-squared |
 |------------------|-------|-------|-----------|
-| Decision Tree    | Value | Value | Value     |
+| Ensemble         | 0.016561	| 0.084947	| 0.659332    |
 | Random Forest    | Value | Value | Value     |
 | XGBoost          | Value | Value | Value     |
 | Ensemble         | Value | Value | Value     |
