@@ -25,7 +25,7 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 ```bash
 pip install -r requirements.txt
 
-## DashBoard
+## **DashBoard**
 ### Summary
 ![MR Beast Dashboard_1](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/ee98c121-a7ca-4a0c-b0e6-93f8ca874358)
 
