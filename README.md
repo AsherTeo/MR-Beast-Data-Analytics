@@ -46,7 +46,8 @@ The primary objective of this project is to employ machine learning techniques, 
    Investigate how comments on MrBeast's videos may impact their view counts.
 
 8. **Develop a Machine Learning Model to Predict Video View Count:**
-   Utilize machine learning techniques, specifically with `scikit-learn`, to develop a model that predicts video view counts based on various features.
+  Utilize machine learning techniques, specifically with `scikit-learn`, to develop a predictive model that accurately estimates the view count of MrBeast's videos based on various features.
+
 
 
 ## Methodology
