@@ -21,7 +21,7 @@ The dashboard boasts a user-friendly interface, making it easy for users to expl
 
 ## Objective
 
-The primary objective of this project is to employ machine learning techniques, specifically using `scikit-learn` in Python, to predict the view count of MrBeast's videos. This overarching goal involves leveraging Python as the primary tool for all data-related tasks, including data wrangling, exploratory data analysis (EDA), and the development of predictive models.
+The primary objective of this project is to employ machine learning techniques, specifically using `scikit-learn` in Python, to predict the view count of MrBeast's videos. This overarching goal involves leveraging Python as the primary tool for all data-related tasks, including data extraction, data wrangling, exploratory data analysis (EDA), and the development of predictive models.
 
 ### Specific Objectives:
 
