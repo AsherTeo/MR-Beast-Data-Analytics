@@ -78,8 +78,6 @@ After hyperparameter tuning, the models are re-evaluated using the same metrics 
 
 Finally, the best model is determined based on the lowest MSE score. Ensemble models, including Ensemble without hyperparameter tuning, Random Forest with hyperparameter tuning, and Extra Tree with hyperparameter tuning, emerge as the top contenders.
 
-<div style="display: flex; justify-content: space-between;">
-
 ### Before Hyperparameter Tuning 
 
 | Model            | MSE   | MAE   | R-squared |
@@ -102,7 +100,7 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 | Random Forest    | Value | Value | Value     |
 | Extra Tree       | Value | Value | Value     |
 
-</div>
+### Result
 
 ### 5) Conclusion
 
