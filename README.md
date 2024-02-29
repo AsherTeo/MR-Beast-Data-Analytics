@@ -68,7 +68,7 @@ Exploratory Data Analysis (EDA) utilizes statistical techniques and visualizatio
 
 ### 4) Machine Learning Analysis
 
-The process begins with the standardization of numerical data using the Standard Scaler. This step ensures that all numerical features are normalized to a consistent range, preventing certain features from dominating others during model training. A variety of regression models, including Decision Tree, Random Forest, XGBoost, and others, are considered for predicting numerical metrics like view count or engagement ratios.
+The process begins with the standardization of numerical data using the Standard Scaler. This step ensures that all numerical features are normalized to a consistent range, preventing certain features from dominating others during model training. A variety of non-parametric regression models, including Decision Tree, Random Forest, XGBoost, and others, are considered for predicting numerical metrics like view count or engagement ratios.
 
 The dataset undergoes 10-Fold cross-validation to thoroughly assess the model's performance across different subsets of the data, providing a robust evaluation. The performance of each model is then evaluated using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared score. These metrics provide insights into how well the models capture the variance in the target variable and make accurate predictions.
 
