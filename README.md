@@ -82,14 +82,14 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 
 ### Before Hyperparameter Tuning  vs  After Hyperparameter Tuning
 
-| Model            | MSE   | MAE   | R-squared |         | Model            | MSE   | MAE   | R-squared |
-|------------------|-------|-------|-----------|         |------------------|-------|-------|-----------|
-| Decision Tree    | Value | Value | Value     |         | Decision Tree    | Value | Value | Value     |
-| Random Forest    | Value | Value | Value     |         | Random Forest    | Value | Value | Value     |
-| XGBoost          | Value | Value | Value     |         | XGBoost          | Value | Value | Value     |
-| Ensemble         | Value | Value | Value     |         | Ensemble         | Value | Value | Value     |
-| Random Forest    | Value | Value | Value     |         | Random Forest    | Value | Value | Value     |
-| Extra Tree       | Value | Value | Value     |         | Extra Tree       | Value | Value | Value     |
+| Model            | MSE   | MAE   | R-squared || Model            | MSE   | MAE   | R-squared |
+|------------------|-------|-------|-----------||------------------|-------|-------|-----------|
+| Decision Tree    | Value | Value | Value     || Decision Tree    | Value | Value | Value     |
+| Random Forest    | Value | Value | Value     || Random Forest    | Value | Value | Value     |
+| XGBoost          | Value | Value | Value     || XGBoost          | Value | Value | Value     |
+| Ensemble         | Value | Value | Value     || Ensemble         | Value | Value | Value     |
+| Random Forest    | Value | Value | Value     || Random Forest    | Value | Value | Value     |
+| Extra Tree       | Value | Value | Value     || Extra Tree       | Value | Value | Value     |
 
 ### After Hyperparameter Tuning
 
