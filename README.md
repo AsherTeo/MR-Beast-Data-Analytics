@@ -116,7 +116,9 @@ Example of Testing Dataset with Actual View Count and Target View Count
 
 
 ### 5) Conclusion
-
+- The most frequently used words in MrBeast's video titles include numerical values such as '1' and '100,' as well as monetary values like '$10,000'."
+- "The surge in view counts began in 2017, coinciding with the year MR. Beast initiated the use of monetary values over $10 000 in his video titles, exemplified by titles like 'Tipping Pizza Delivery Guys $10,000' and 'Selling Organs for $1,000,000."
+- 
 ## **Installation**
 
 The code is developed using Python version 3.7.16. If Python is not already installed on your system, you can download it [here](https://www.python.org/downloads/). If your current Python version is lower than 3.7.16, you can upgrade it using the pip package manager. Make sure you have the latest version of pip installed. To install the necessary packages and libraries, execute the following command in the project directory after cloning the repository:
