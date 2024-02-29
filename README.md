@@ -80,7 +80,7 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 
 ### Before hyper parameter tunning
 
-| Model | Metric 1 (e.g., MSE) | Metric 2 (e.g., MAE) | Metric 3 (e.g., R-squared) |
+| Model | MSE|  MAE | R-squared|
 |-------|----------------------|----------------------|-----------------------------|
 | Decision Tree | Value | Value | Value |
 | Random Forest | Value | Value | Value |
