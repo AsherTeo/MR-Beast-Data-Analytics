@@ -55,7 +55,13 @@ The primary objective of this project is to employ machine learning techniques, 
 In the initial phase, data extraction from the YouTube API is executed using Python. The process involves utilizing the `googleapiclient` libraries to establish a connection with the API. This connection facilitates the retrieval of essential information, encompassing the video's Title, publishedAt timestamp, viewCount, likeCount, commentCount, duration, and a comprehensive set of 1000 comments for all of MrBeast's video content.
 
 ### 2) Data Wrangling
-Data wrangling is performed using the `pandas` library in Python. This includes cleaning and organizing the raw data obtained from the YouTube API, handling missing values, and ensuring data quality for subsequent analysis.
+Data wrangling is executed through the use of the pandas library in Python. This process encompasses several crucial steps, starting with the cleaning and organization of raw data obtained from the YouTube API. Tasks involve handling missing values, adjusting the data types of each feature to their correct formats, and implementing specific text manipulations.
+
+Text tokenization is performed, and any tokens beginning with '$' are replaced to convey monetary values. For instance, '$ 800,000' is transformed into the identifier 'money'. Similarly, numeric values are standardized, with both '1' and '100' represented as 'number' for consistency.
+
+Further refinement involves the removal of stop words to enhance the relevance of the textual content. Additionally, lemmatization is applied to streamline words to their base forms.
+
+To gain deeper insights, semantic analysis is employed, classifying sentiments into percentages of positivity, neutrality, and negativity. This multifaceted approach ensures the data is refined, structured, and enriched, setting the stage for more comprehensive and insightful analyses.
 
 ### 3) Exploratory Data Analysis (EDA)
 Exploratory Data Analysis involves utilizing statistical techniques and visualizations to uncover patterns, correlations, and outliers within the dataset. `stats` library and `seaborn` are employed for this phase, providing valuable insights into MrBeast's video metrics.
