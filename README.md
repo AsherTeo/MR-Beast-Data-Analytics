@@ -16,17 +16,8 @@ This project features a comprehensive analysis dashboard for MrBeast's content. 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Screenshots
-![Include screenshots or images of your dashboard]
-
-
-
-## **Overview**
-
-## **Motivation**
-
-Mr. Beast is a popular YouTuber known for his stunts, challenges, and generosity, often giving away substantial sums of money in his videos, either to individuals or for charitable causes. His content spans from attention-grabbing challenges and experiments to initiatives aimed at making a positive impact on people's lives. Over time, Mr. Beast has emerged as one of the most prominent figures in the YouTube community, with his videos consistently attracting millions of views.
-
-Given this, I am intrigued by Mr. Beast's journey to fame. I wonder about the strategies he employed to rise to popularity and the type of content he created when he lacked financial resources. What kind of videos did he produce during the initial stages of his career? Did he start with random content, or did he have specific themes or tasks in mind? Additionally, I'm curious about the impact of video duration on views—whether longer or shorter videos had a noticeable effect on viewership.
+![Include screenshots or images of you![MR Beast Dashboard_1](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/caa70c8e-cd48-47df-ae96-caa425d2a201)
+r dashboard]
 
 ## **Installation**
 
