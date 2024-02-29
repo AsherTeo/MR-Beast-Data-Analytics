@@ -64,7 +64,7 @@ Further refinement involves the removal of stop words to enhance the relevance o
 To gain deeper insights, semantic analysis is employed, classifying sentiments into percentages of positivity, neutrality, and negativity. This multifaceted approach ensures the data is refined, structured, and enriched, setting the stage for more comprehensive and insightful analyses.
 
 ### 3) Exploratory Data Analysis (EDA)
-Exploratory Data Analysis involves utilizing statistical techniques and visualizations to uncover patterns, correlations, and outliers within the dataset. `stats` library and `seaborn` are employed for this phase, providing valuable insights into MrBeast's video metrics.
+Exploratory Data Analysis (EDA) utilizes statistical techniques and visualizations, employing the `stats` library and `seaborn` to reveal patterns and outliers in MrBeast's video metrics. Skewness and Shapiro tests assess normality; if not observed, a log transformation is applied. If non-normality persists (p-values < 0.05), non-parametric models like Decision Trees and Random Forests are recommended for machine learning analyses. 
 
 ### 4) Machine Learning
 Machine learning techniques, implemented through `scikit-learn`, are utilized to derive predictive models or classifications based on the analyzed data. This includes tasks such as sentiment analysis on comments, predicting engagement metrics, or any other relevant objectives identified during the analysis.
