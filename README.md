@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project features a comprehensive analysis dashboard for MrBeast's content. The dashboard, implemented in Python, provides insights into various aspects of MrBeast's videos, engagement metrics, and more. The data is extracted from the YouTube API, and Python is utilized for data wrangling, leveraging the powerful 'pandas' library.
+This project features a comprehensive analysis dashboard for MrBeast's content. The dashboard, implemented in Python, provides insights into various aspects of MrBeast's videos, engagement metrics, and more. The data is extracted from the YouTube API, and Python is utilized for data wrangling, leveraging the powerful `pandas` library.
 
 The analysis includes statistical insights using the `stats` library, data visualization using `seaborn`, and machine learning utilizing `scikit-learn`. These tools collectively contribute to a thorough exploration and understanding of MrBeast's content landscape.
 
