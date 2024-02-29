@@ -49,8 +49,6 @@ The primary objective of this project is to employ machine learning techniques, 
 8. **Develop a Machine Learning Model to Predict Video View Count:**
   Utilize machine learning techniques, specifically with `scikit-learn`, to develop a predictive model that accurately estimates the view count of MrBeast's videos based on various features.
 
-
-
 ## Methodology
 
 ### Data Wrangling
@@ -61,10 +59,6 @@ Exploratory Data Analysis involves utilizing statistical techniques and visualiz
 
 ### Machine Learning
 Machine learning techniques, implemented through `scikit-learn`, are utilized to derive predictive models or classifications based on the analyzed data. This includes tasks such as sentiment analysis on comments, predicting engagement metrics, or any other relevant objectives identified during the analysis.
-
-## How to Use
-1. [Include step-by-step instructions on how to run or access the dashboard]
-2. [Specify any dependencies or prerequisites]
 
 ## **Installation**
 
