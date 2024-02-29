@@ -24,7 +24,7 @@ The dashboard boasts a user-friendly interface, making it easy for users to expl
 The Code is written in Python 3.7. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 ```bash
 pip install -r requirements.txt
-
+```
 ## **DashBoard**
 ### Summary
 ![MR Beast Dashboard_1](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/ee98c121-a7ca-4a0c-b0e6-93f8ca874358)
