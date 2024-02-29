@@ -103,15 +103,14 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 |    Decision Tree       | 0.020561	| 0.101062 | 0.633439  |
 
 ### Result
-| Video title              | NLP-Processed Dataset   | Actual View count   | Target View count |
+| Video title                                          | NLP-Processed Dataset                     | Actual View count   | Target View count |
 |------------------|-------|-------|-----------|
-| What Is Youtube Terms Of Service?????	              | service term youtube	| 4.384400e+04 | 4.745563e+04  |
-| 1𝑣𝑠1,000,000,000 Yacht!             | money vs yacht | 2.998537e+08 | 2.448957e+08  |
-|WORLD'S FIRST BLACK OPS 3 GUN SYNC!!          |black gun number op sync world	 |5.664100e+04| 5.356425e+04  |
-| Gradient Boosting	    | 0.018492	| 0.092919 | 0.611793  |
-|     XGB	             | 0.017836	| 0.090079 | 0.650330  |
-|     LGM	             | 0.019296	| 0.091354 | 0.626575  |
-|    Decision Tree       | 0.020561	| 0.101062 | 0.633439  |
+|    What Is Youtube Terms Of Service?????	          | service term youtube	                     | 4.384400e+04  | 4.745563e+04  |
+|    WORLD'S FIRST BLACK OPS 3 GUN SYNC!!              | black gun number op sync world	         |5.664100e+04   | 5.356425e+04  |
+|    Battle Pirates, Hellstrike vs Epic Base!		    | base battle epic hellstrike pirate vs		| 5.394500e+04  | 5.393675e+04  |
+|    Leaving For 7 Days                                | day leave number                          | 4.636800e+04	 | 4.743633e+04  |
+|    Last To Leave Ramen Noodle Pool Wins $20,000		 | leave money noodle pool ramen win	      | 7.227836e+07  | 7.115062e+07  |
+
 
 ### 5) Conclusion
 
