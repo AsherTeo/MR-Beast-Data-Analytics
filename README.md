@@ -79,28 +79,28 @@ After hyperparameter tuning, the models are re-evaluated using the same metrics 
 Finally, the best model is determined based on the lowest MSE score. Ensemble models, including Ensemble without hyperparameter tuning, Random Forest with hyperparameter tuning, and Extra Tree with hyperparameter tuning, emerge as the top contenders.
 
 <div style="display: flex; justify-content: space-between;">
-   
-### Before hyper parameter tunning
 
-| Model | MSE|  MAE | R-squared|
-|-------|----------------------|----------------------|-----------------------------|
-| Decision Tree | Value | Value | Value |
-| Random Forest | Value | Value | Value |
-| XGBoost | Value | Value | Value |
-| Ensemble | Value | Value | Value |
-| Random Forest | Value | Value | Value |
-| Extra Tree | Value | Value | Value |
+### Before Hyperparameter Tuning
 
-### After hyper parameter tunning
+| Model            | MSE   | MAE   | R-squared |
+|------------------|-------|-------|-----------|
+| Decision Tree    | Value | Value | Value     |
+| Random Forest    | Value | Value | Value     |
+| XGBoost          | Value | Value | Value     |
+| Ensemble         | Value | Value | Value     |
+| Random Forest    | Value | Value | Value     |
+| Extra Tree       | Value | Value | Value     |
 
-| Model | MSE|  MAE | R-squared|
-|-------|----------------------|----------------------|-----------------------------|
-| Decision Tree | Value | Value | Value |
-| Random Forest | Value | Value | Value |
-| XGBoost | Value | Value | Value |
-| Ensemble | Value | Value | Value |
-| Random Forest | Value | Value | Value |
-| Extra Tree | Value | Value | Value |
+### After Hyperparameter Tuning
+
+| Model            | MSE   | MAE   | R-squared |
+|------------------|-------|-------|-----------|
+| Decision Tree    | Value | Value | Value     |
+| Random Forest    | Value | Value | Value     |
+| XGBoost          | Value | Value | Value     |
+| Ensemble         | Value | Value | Value     |
+| Random Forest    | Value | Value | Value     |
+| Extra Tree       | Value | Value | Value     |
 
 </div>
 
