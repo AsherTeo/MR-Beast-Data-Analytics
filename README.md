@@ -66,8 +66,23 @@ To gain deeper insights, semantic analysis is employed, classifying sentiments i
 ### 3) Exploratory Data Analysis (EDA)
 Exploratory Data Analysis (EDA) utilizes statistical techniques and visualizations, employing the `stats` library and `seaborn` to reveal patterns and outliers in MrBeast's video metrics. Skewness and Shapiro tests assess normality; if not observed, a log transformation is applied. If non-normality persists (p-values < 0.05), non-parametric models like Decision Trees and Random Forests are recommended for machine learning analyses. The top 10 videos, based on view count and considering view count per day, are identified to ensure fairness in comparisons across different upload times. Subsequently, relationships between view count, like count, and duration are examined, and durations are grouped for enhanced visualization. The analysis also involves determining the most frequent words in video titles and converting categorical features into one-hot encoding, while removing redundant features.
 
-### 4) Machine Learning
-Machine learning techniques, implemented through `scikit-learn`, are utilized to derive predictive models or classifications based on the analyzed data. This includes tasks such as sentiment analysis on comments, predicting engagement metrics, or any other relevant objectives identified during the analysis.
+### 4) Machine Learning Analysis
+
+In the realm of machine learning, our approach encompasses several key phases to unlock insights from MrBeast's video data:
+
+Data Preprocessing:
+
+We initiate with data normalization using a standard scaler, ensuring uniformity across numerical features.
+Model Selection and Cross-Validation:
+
+Employing a diverse set of regression-based models, including Decision Trees, Random Forest, and XGB, we apply a robust 10-fold cross-validation. Metric scores like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared provide comprehensive model evaluation.
+Hyperparameter Tuning:
+
+To refine model performance, we utilize grid search for hyperparameter optimization. This process involves identifying optimal configurations for each model, enhancing predictive accuracy.
+Performance Evaluation:
+
+Post hyperparameter tuning, we reevaluate the models using the selected metrics to gauge the resulting improvement in predictive capabilities.
+This iterative and methodical approach ensures a thorough exploration of machine learning models, optimizing their performance for insightful analysis of MrBeast's video landscape.
 
 ## **Installation**
 
