@@ -96,9 +96,9 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 | Decision Tree | Value | Value | Value |
 | Random Forest | Value | Value | Value |
 | XGBoost | Value | Value | Value |
-| Ensemble (No Tuning) | Value | Value | Value |
-| Random Forest (Tuned) | Value | Value | Value |
-| Extra Tree (Tuned) | Value | Value | Value |
+| Ensemble | Value | Value | Value |
+| Random Forest | Value | Value | Value |
+| Extra Tree | Value | Value | Value |
 
 ### 5) Conclusion
 
