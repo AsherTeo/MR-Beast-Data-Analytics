@@ -6,6 +6,8 @@ This project features a comprehensive analysis dashboard for MrBeast's content. 
 
 The analysis includes statistical insights using the `stats` library, data visualization using `seaborn`, and machine learning utilizing `scikit-learn`. These tools collectively contribute to a thorough exploration and understanding of MrBeast's content landscape.
 
+Additionally, for data cleaning and NLP tasks, the project uses the `nltk` and `strings` libraries. This includes removing stopwords, tokenization, lemmatization, and conducting sentiment analysis in the comment sections. Redundant data, such as non-English words, is filtered out to enhance the quality of the analysis.
+
 The dashboard boasts a user-friendly interface, making it easy for users to explore and interpret the data. Additionally, for enhanced interactivity and visualization, Power BI is integrated to create an engaging and insightful dashboard.
 
 ## Key Features
@@ -13,6 +15,7 @@ The dashboard boasts a user-friendly interface, making it easy for users to expl
 - Extraction of data from YouTube API using Python.
 - Data wrangling with the `pandas` library.
 - Statistical analysis and data visualization.
+- Utilization of `nltk` and `strings` libraries for data cleaning and NLP tasks.
 - User-friendly interface for easy exploration.
 
 ## How to Use
