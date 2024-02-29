@@ -103,6 +103,9 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 |    Decision Tree       | 0.020561	| 0.101062 | 0.633439  |
 
 ### Result
+
+Example of Testing Dataset with Actual View Count and Target View Count
+
 | Video title                                          | NLP-Processed Dataset                     | Actual View count   | Target View count |
 |------------------|-------|-------|-----------|
 |    What Is Youtube Terms Of Service?????	          | service term youtube	                     | 4.384400e+04  | 4.745563e+04  |
