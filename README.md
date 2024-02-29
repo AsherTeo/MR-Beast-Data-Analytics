@@ -16,13 +16,11 @@ This project features a comprehensive analysis dashboard for MrBeast's content. 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Screenshots
-| Screenshot 1 | Screenshot 2 |
-|--------------|--------------|
-| ![Image 1](![MR Beast Dashboard_1](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/ee98c121-a7ca-4a0c-b0e6-93f8ca874358)| ![Image 2] ![MR Beast Dashboard_2](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/b5ed9d7a-a844-4779-9cce-43d2d252239e)
+![Summary](![MR Beast Dashboard_1](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/ee98c121-a7ca-4a0c-b0e6-93f8ca874358)
+![Exploring the Corrleation between Views, Likes, and Comments] ![MR Beast Dashboard_2](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/b5ed9d7a-a844-4779-9cce-43d2d252239e)
+![Video Duration Insight]![MR Beast Dashboard_3](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/f8b9ee50-31c4-4c2b-a96d-3ce687487c89)
+![Analyzing Model Predictions and Actual Results]![MR Beast Dashboard_4](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/bd147943-6e21-4d61-858c-16468516c4b1)
 
-| Screenshot 3 | Screenshot 4 |
-|--------------|--------------|
-| ![Image 3](url_to_image_3) | ![Image 4](url_to_image_4) |
 
 ## **Installation**
 
