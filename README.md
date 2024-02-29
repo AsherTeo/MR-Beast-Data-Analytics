@@ -15,9 +15,9 @@ This project features a comprehensive analysis dashboard for MrBeast's content. 
 ## Contributions
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## Screenshots
+## DashBoard
 ### Summary
-(![MR Beast Dashboard_1](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/ee98c121-a7ca-4a0c-b0e6-93f8ca874358)
+![MR Beast Dashboard_1](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/ee98c121-a7ca-4a0c-b0e6-93f8ca874358)
 
 ### Exploring the Corrleation between Views, Likes, and Comments
 ![MR Beast Dashboard_2](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/b5ed9d7a-a844-4779-9cce-43d2d252239e)
