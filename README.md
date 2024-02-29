@@ -8,7 +8,7 @@ The analysis includes statistical insights using the `stats` library, data visua
 
 Additionally, for data cleaning and NLP tasks, the project uses the `nltk` and `strings` libraries. This includes removing stopwords, tokenization, lemmatization, and conducting sentiment analysis in the comment sections. Redundant data, such as non-English words, is filtered out to enhance the quality of the analysis.
 
-The dashboard boasts a user-friendly interface, making it easy for users to explore and interpret the data. Additionally, for enhanced interactivity and visualization, Power BI is integrated to create an engaging and insightful dashboard.
+The dashboard boasts a user-friendly interface, making it easy for users to explore and interpret the data. Additionally, for enhanced interactivity and visualization, **Power BI** is integrated to create an engaging and insightful dashboard.
 
 ## Key Features
 - Comprehensive analysis of MrBeast's video content.
