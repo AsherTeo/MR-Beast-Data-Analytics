@@ -18,6 +18,21 @@ The dashboard boasts a user-friendly interface, making it easy for users to expl
 - Utilization of `nltk` and `strings` libraries for data cleaning and NLP tasks.
 - User-friendly interface for easy exploration.
 
+## Objective
+
+The primary objective of this project is to provide a detailed analysis of MrBeast's content, uncovering patterns, trends, and insights that contribute to a comprehensive understanding of his video landscape. The focus is on leveraging data science techniques and tools to extract meaningful information from the available data.
+
+## Methodology
+
+### Data Wrangling
+Data wrangling is performed using the `pandas` library in Python. This includes cleaning and organizing the raw data obtained from the YouTube API, handling missing values, and ensuring data quality for subsequent analysis.
+
+### Exploratory Data Analysis (EDA)
+Exploratory Data Analysis involves utilizing statistical techniques and visualizations to uncover patterns, correlations, and outliers within the dataset. `stats` library and `seaborn` are employed for this phase, providing valuable insights into MrBeast's video metrics.
+
+### Machine Learning
+Machine learning techniques, implemented through `scikit-learn`, are utilized to derive predictive models or classifications based on the analyzed data. This includes tasks such as sentiment analysis on comments, predicting engagement metrics, or any other relevant objectives identified during the analysis.
+
 ## How to Use
 1. [Include step-by-step instructions on how to run or access the dashboard]
 2. [Specify any dependencies or prerequisites]
