@@ -85,13 +85,13 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 | Decision Tree | Value | Value | Value |
 | Random Forest | Value | Value | Value |
 | XGBoost | Value | Value | Value |
-| Ensemble (No Tuning) | Value | Value | Value |
-| Random Forest (Tuned) | Value | Value | Value |
-| Extra Tree (Tuned) | Value | Value | Value |
+| Ensemble | Value | Value | Value |
+| Random Forest | Value | Value | Value |
+| Extra Tree | Value | Value | Value |
 
 ### After hyper parameter tunning
 
-| Model | Metric 1 (e.g., MSE) | Metric 2 (e.g., MAE) | Metric 3 (e.g., R-squared) |
+| Model | MSE|  MAE | R-squared|
 |-------|----------------------|----------------------|-----------------------------|
 | Decision Tree | Value | Value | Value |
 | Random Forest | Value | Value | Value |
