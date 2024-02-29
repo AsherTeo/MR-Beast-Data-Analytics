@@ -103,6 +103,15 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 |    Decision Tree       | 0.020561	| 0.101062 | 0.633439  |
 
 ### Result
+| Video title              | NLP-Processed Dataset   | Actual View count   | Target View count |
+|------------------|-------|-------|-----------|
+| What Is Youtube Terms Of Service?????	              | service term youtube	| 4.384400e+04 | 4.745563e+04  |
+| 1𝑣𝑠1,000,000,000 Yacht!             | money vs yacht | 2.998537e+08 | 2.448957e+08  |
+|WORLD'S FIRST BLACK OPS 3 GUN SYNC!!          |black gun number op sync world	 |5.664100e+04| 5.356425e+04  |
+| Gradient Boosting	    | 0.018492	| 0.092919 | 0.611793  |
+|     XGB	             | 0.017836	| 0.090079 | 0.650330  |
+|     LGM	             | 0.019296	| 0.091354 | 0.626575  |
+|    Decision Tree       | 0.020561	| 0.101062 | 0.633439  |
 
 ### 5) Conclusion
 
