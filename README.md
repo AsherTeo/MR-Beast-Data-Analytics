@@ -88,18 +88,19 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 | Gradient Boosting	    | 0.018175 | 0.092537 | 0.620210  |
 |     XGB	             | 0.018462 | 0.090461 | 0.644267  |
 |     LGM	             | 0.018984	| 0.093208 | 0.616331  |
-|    Decision Tree       |0.029395  | 0.115334 | 0.336514  |
+|    Decision Tree       | 0.029395 | 0.115334 | 0.336514  |
 
 ### After Hyperparameter Tuning
 
-| Model            | MSE   | MAE   | R-squared |
+| Model                  | MSE   | MAE   | R-squared |
 |------------------|-------|-------|-----------|
-| Decision Tree    | Value | Value | Value     |
-| Random Forest    | Value | Value | Value     |
-| XGBoost          | Value | Value | Value     |
-| Ensemble         | Value | Value | Value     |
-| Random Forest    | Value | Value | Value     |
-| Extra Tree       | Value | Value | Value     |
+| Ensemble               | 0.016481	| 0.084852 | 0.661702  |
+| Extra Tree             | 0.016602 | 0.086503 | 0.647167  |
+| Random Forest          | 0.016835 | 0.085577 | 0.682226  |
+| Gradient Boosting	    | 0.018492	| 0.092919 | 0.611793  |
+|     XGB	             | 0.017836	| 0.090079 | 0.650330  |
+|     LGM	             | 0.019296	| 0.091354 | 0.626575  |
+|    Decision Tree       | 0.020561	| 0.101062 | 0.633439  |
 
 ### Result
 
