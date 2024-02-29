@@ -20,7 +20,34 @@ The dashboard boasts a user-friendly interface, making it easy for users to expl
 
 ## Objective
 
-The primary objective of this project is to provide a detailed analysis of MrBeast's content, uncovering patterns, trends, and insights that contribute to a comprehensive understanding of his video landscape. The focus is on leveraging data science techniques and tools to extract meaningful information from the available data.
+The primary objective of this project is to provide a detailed analysis of MrBeast's content, uncovering patterns, trends, and insights that contribute to a comprehensive understanding of his video landscape. The focus is on leveraging Python as the main tool to perform all aspects of data work, including data wrangling, exploratory data analysis (EDA), and machine learning.
+
+### Specific Objectives:
+
+1. **Top 10 Videos Based on View Count:**
+   Identify and present the top 10 videos by view count to highlight MrBeast's most popular content.
+
+2. **Analyze the Trend in Video Views Over the Years:**
+   Investigate how the number of video views has evolved over the years to understand overall trends.
+
+3. **Explore the Correlation Between Likes, Comments, and Views:**
+   Analyze the relationships between likes, comments, and views to uncover potential patterns.
+
+4. **Investigate the Impact of Video Duration on View Count:**
+   Examine how the duration of MrBeast's videos affects their view counts.
+
+5. **Examine Mr Beast's Video Upload Frequency Over 12 Years:**
+   Study the frequency of MrBeast's video uploads over a 12-year period to identify any patterns or changes.
+
+6. **Identify Frequently Used Words in Mr Beast's Video Titles and Explore Trends:**
+   Analyze the titles of MrBeast's videos to identify commonly used words and explore trends in naming conventions.
+
+7. **Assess the Influence of Comments on View Count:**
+   Investigate how comments on MrBeast's videos may impact their view counts.
+
+8. **Develop a Machine Learning Model to Predict Video View Count:**
+   Utilize machine learning techniques, specifically with `scikit-learn`, to develop a model that predicts video view counts based on various features.
+
 
 ## Methodology
 
