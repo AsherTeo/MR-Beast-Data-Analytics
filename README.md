@@ -1,3 +1,25 @@
+# MrBeast Analysis Dashboard
+
+## Overview
+
+This project features a comprehensive analysis dashboard for MrBeast's content. The dashboard, implemented in Python, provides insights into various aspects of MrBeast's videos, engagement metrics, and more. Utilizing [mention any specific libraries or tools], this tool offers a user-friendly interface for exploring and understanding MrBeast's content landscape.
+
+## Key Features
+- [List key features of your dashboard]
+- [Highlight any unique functionalities]
+
+## How to Use
+1. [Include step-by-step instructions on how to run or access the dashboard]
+2. [Specify any dependencies or prerequisites]
+
+## Contributions
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+## Screenshots
+![Include screenshots or images of your dashboard]
+
+
+
 ## **Overview**
 
 ## **Motivation**
