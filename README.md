@@ -59,7 +59,7 @@ Data wrangling is executed through the use of the `pandas` library in Python. Th
 
 Text tokenization is performed, and any tokens beginning with '$' are replaced to convey monetary values. For instance, '$ 800,000' is transformed into the identifier 'money'. Similarly, numeric values are standardized, with both '1' and '100' represented as 'number' for consistency.
 
-Further refinement involves the removal of stop words to enhance the relevance of the textual content. Additionally, lemmatization is applied to streamline words to their base forms.
+Further refinement involves the removal of stop words to enhance the relevance of the textual content. Additionally, lemmatization is applied to streamline words to their base forms. To ensure the text is clean and focused, any symbols and non-English characters are removed.
 
 To gain deeper insights, semantic analysis is employed, classifying sentiments into percentages of positivity, neutrality, and negativity. This multifaceted approach ensures the data is refined, structured, and enriched, setting the stage for more comprehensive and insightful analyses.
 
