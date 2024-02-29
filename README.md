@@ -51,13 +51,15 @@ The primary objective of this project is to employ machine learning techniques, 
 
 ## Methodology
 
-### Data Wrangling
+### 1) Data Extraction
+
+### 2) Data Wrangling
 Data wrangling is performed using the `pandas` library in Python. This includes cleaning and organizing the raw data obtained from the YouTube API, handling missing values, and ensuring data quality for subsequent analysis.
 
-### Exploratory Data Analysis (EDA)
+### 3) Exploratory Data Analysis (EDA)
 Exploratory Data Analysis involves utilizing statistical techniques and visualizations to uncover patterns, correlations, and outliers within the dataset. `stats` library and `seaborn` are employed for this phase, providing valuable insights into MrBeast's video metrics.
 
-### Machine Learning
+### 4) Machine Learning
 Machine learning techniques, implemented through `scikit-learn`, are utilized to derive predictive models or classifications based on the analyzed data. This includes tasks such as sentiment analysis on comments, predicting engagement metrics, or any other relevant objectives identified during the analysis.
 
 ## **Installation**
