@@ -115,7 +115,7 @@ Example of Testing Dataset with Actual View Count and Target View Count
 |    Last To Leave Ramen Noodle Pool Wins $20,000		 | leave money noodle pool ramen win	      | 7.227836e+07  | 7.115062e+07  |
 
 
-### 5) My Hypothesis
+### 5) Hypothesis Overview
 - Monetary values and numerical figures are the most frequently used words in the video titles.
 - Among the top 10 videos by view count, six of them involve monetary aspects, including giving, spending, and keeping money
 - View counts started rising in 2017, coinciding with the year MR. Beast initiated the use of monetary values over $10 000 in his video titles, exemplified by titles like 'Giving My Mom $100,000 (Proudest Day of My Life)' and 'Tipping Pizza Delivery Guys $10,000'.
@@ -127,9 +127,6 @@ Example of Testing Dataset with Actual View Count and Target View Count
 - With a limited sample size of 1000 comments per video, the sentiment analysis suggests that, on average, the majority of comments are neutral (80%), while 16% are positive, and only a minimal 4% are negative.
 - The video titled 'Dude Perfect 4.0 - We Are Totally Better' stands out with the highest percentage of negative comments at 0.2%. Examples of negative remarks include expressions like 'you suck', 'y'all are so fake', 'Whole video is fake', 'Go to hell ya suckers' 
 
-### 6) Conclusion
-
-  
 ## **Installation**
 
 The code is developed using Python version 3.7.16. If Python is not already installed on your system, you can download it [here](https://www.python.org/downloads/). If your current Python version is lower than 3.7.16, you can upgrade it using the pip package manager. Make sure you have the latest version of pip installed. To install the necessary packages and libraries, execute the following command in the project directory after cloning the repository:
