@@ -118,7 +118,7 @@ Example of Testing Dataset with Actual View Count and Target View Count
 ### 5) My Hypothesis
 - Monetary values and numerical figures are the most frequently used words in the video titles.
 - Among the top 10 videos by view count, six of them involve monetary aspects, including giving, spending, and keeping money
-- View counts started rising in 2017, coinciding with the year MR. Beast initiated the use of monetary values over $10 000 in his video titles, exemplified by titles like 'Tipping Pizza Delivery Guys $10,000' and 'Selling Organs for $1,000,000.
+- View counts started rising in 2017, coinciding with the year MR. Beast initiated the use of monetary values over $10 000 in his video titles, exemplified by titles like 'Giving My Mom $100,000 (Proudest Day of My Life)' and 'Tipping Pizza Delivery Guys $10,000'. Additionally, in 2017, he posted 7 out of 10 videos with durations exceeding 100 minutes, such as 'Reading The Longest English Word (190,000 Characters)' and 'I Counted To 100,000!'
 - Videos lasting less than 1 minute have the highest average view counts, suggesting that the audience prefers shorter videos over longer ones.
 - During the period from 2012 to 2014, the correlation between Views, Likes, and Comments was notably high, with Views vs Likes at 0.94, Views vs Comments at 0.96, and Likes vs Comments at 0.97. However, as the years progressed, the correlations between Views vs Comments and Likes vs Comments experienced a significant decrease.
 - Starting from 2015, MrBeast began uploading videos that are less than a minute long. This has noticeably impacted the correlation between Views vs Comments and Likes vs Comments, suggesting that users watching shorter videos may be less inclined to leave comments
