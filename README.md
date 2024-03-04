@@ -145,12 +145,12 @@ The summary section offers a quick snapshot of essential metrics, providing a bi
 ### Exploring the Correlation between Views, Likes, and Comments
 Dive into the relationships between views, likes, and comments with this interactive visualization. Uncover patterns and correlations that provide insights into viewer engagement and content reception.
 
-![Video Duration Insight](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/87735003-6a9d-4c80-b50d-6d6671b0ed60)
-
 ![Exploring the Correlation between Views, Likes, and Comments](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/2c804dc1-cb74-4b8b-8b26-f71b7707cc2a)
 
 ### Video Duration Insight
 Explore the impact of video duration on view counts. This visualization allows you to analyze how the length of MrBeast's videos influences their popularity and viewer retention.
+
+![Video Duration Insight](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/87735003-6a9d-4c80-b50d-6d6671b0ed60)
 
 ![MR Beast Dashboard_3](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/f8b9ee50-31c4-4c2b-a96d-3ce687487c89)
 
