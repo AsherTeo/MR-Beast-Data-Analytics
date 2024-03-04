@@ -145,6 +145,9 @@ The summary section offers a quick snapshot of essential metrics, providing a bi
 ### Exploring the Correlation between Views, Likes, and Comments
 Dive into the relationships between views, likes, and comments with this interactive visualization. Uncover patterns and correlations that provide insights into viewer engagement and content reception.
 
+![Exploring the Correlation between Views, Likes, and Comments](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/2c804dc1-cb74-4b8b-8b26-f71b7707cc2a)
+
+
 ![MR Beast Dashboard_2](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/b5ed9d7a-a844-4779-9cce-43d2d252239e)
 
 ### Video Duration Insight
