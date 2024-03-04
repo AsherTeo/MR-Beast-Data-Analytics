@@ -140,6 +140,9 @@ The project's interactive dashboard serves as a central hub for exploring and in
 ### Summary
 The summary section offers a quick snapshot of essential metrics, providing a bird's-eye view of MrBeast's overall video landscape. It includes key statistics such as total views, likes, comments, and video count. The visual representation facilitates an instant understanding of the channel's performance.
 
+![Summary](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/a517aff7-d4bd-4183-b419-47f0ccf44022)
+
+
 ![MR Beast Dashboard_1](https://github.com/AsherTeo/MR-Beast-Data-Analytics/assets/78581569/ee98c121-a7ca-4a0c-b0e6-93f8ca874358)
 
 ### Exploring the Correlation between Views, Likes, and Comments
