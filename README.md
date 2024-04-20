@@ -1,4 +1,4 @@
-# MrBeast Analysis Dashboard
+# MrBeast Analysis with Dashboard(Below)
 
 ## Overview
 
