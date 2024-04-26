@@ -87,6 +87,8 @@ After hyperparameter tuning, the models are re-evaluated using the same metrics 
 
 Finally, the best model is determined based on the lowest MSE score. Ensemble models, including Ensemble without hyperparameter tuning, Random Forest with hyperparameter tuning, and Extra Tree with hyperparameter tuning, emerge as the top contenders.
 
+</details>
+
 ### Before Hyperparameter Tuning 
 
 | Model                  | MSE   | MAE   | R-squared |
@@ -111,7 +113,7 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 |     LGM	             | 0.019296	| 0.091354 | 0.626575  |
 |    Decision Tree       | 0.020561	| 0.101062 | 0.633439  |
 
-### Result
+## Result
 
 Example of Testing Dataset with Actual View Count and Target View Count
 
@@ -123,7 +125,11 @@ Example of Testing Dataset with Actual View Count and Target View Count
 |    Leaving For 7 Days                                | day leave number                          | 4.636800e+04	 | 4.743633e+04  |
 |    Last To Leave Ramen Noodle Pool Wins $20,000		 | leave money noodle pool ramen win	      | 7.227836e+07  | 7.115062e+07  |
 
-### 5) Hypothesis Overview
+## 5) Hypothesis Overview
+
+<details>
+  <summary>Hypothesis Overview</summary>
+  
 - Monetary values and numerical figures are the most frequently used words in the video titles.
 - Among the top 10 videos by view count, six of them involve monetary aspects, including giving, spending, and keeping money
 - View counts started rising in 2017, coinciding with the year MR. Beast initiated the use of monetary values over $10 000 in his video titles, exemplified by titles like 'Giving My Mom $100,000 (Proudest Day of My Life)' and 'Tipping Pizza Delivery Guys $10,000'.
@@ -134,7 +140,7 @@ Example of Testing Dataset with Actual View Count and Target View Count
 - Starting from 2019, Mr. Beast predominantly uploads videos on Saturdays.
 - With a limited sample size of 1000 comments per video, the sentiment analysis suggests that, on average, the majority of comments are neutral (80%), while 16% are positive, and only a minimal 4% are negative.
 - The video titled 'Dude Perfect 4.0 - We Are Totally Better' stands out with the highest percentage of negative comments at 0.2%. Examples of negative remarks include expressions like 'you suck', 'y'all are so fake', 'Whole video is fake', 'Go to hell ya suckers'
-- 
+  
 </details>
 
 ## **Installation**
