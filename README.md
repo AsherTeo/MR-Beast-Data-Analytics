@@ -89,6 +89,8 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 
 </details>
 
+## Result
+
 ### Before Hyperparameter Tuning 
 
 | Model                  | MSE   | MAE   | R-squared |
@@ -113,7 +115,7 @@ Finally, the best model is determined based on the lowest MSE score. Ensemble mo
 |     LGM	             | 0.019296	| 0.091354 | 0.626575  |
 |    Decision Tree       | 0.020561	| 0.101062 | 0.633439  |
 
-## Result
+## Example of Testing Dataset
 
 Example of Testing Dataset with Actual View Count and Target View Count
 
@@ -125,7 +127,7 @@ Example of Testing Dataset with Actual View Count and Target View Count
 |    Leaving For 7 Days                                | day leave number                          | 4.636800e+04	 | 4.743633e+04  |
 |    Last To Leave Ramen Noodle Pool Wins $20,000		 | leave money noodle pool ramen win	      | 7.227836e+07  | 7.115062e+07  |
 
-## 5) Hypothesis Overview
+## Hypothesis Overview
 
 <details>
   <summary>Hypothesis Overview</summary>
