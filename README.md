@@ -51,6 +51,9 @@ The primary objective of this project is to employ machine learning techniques, 
 
 ## Methodology
 
+<details>
+  <summary>Methodology</summary>
+   
 ### 1) Data Extraction
 In the initial phase, data extraction from the YouTube API is executed using Python. The process involves utilizing the `googleapiclient` libraries to establish a connection with the API. This connection facilitates the retrieval of essential information, encompassing the video's Title, publishedAt timestamp, viewCount, likeCount, commentCount, duration, and an extensive set of comments. However, due to YouTube API restrictions, a small subset of 1000 comments is used for each video. This limitation ensures compliance with API constraints while still providing a representative sample for analysis and insights.
 
@@ -114,7 +117,6 @@ Example of Testing Dataset with Actual View Count and Target View Count
 |    Leaving For 7 Days                                | day leave number                          | 4.636800e+04	 | 4.743633e+04  |
 |    Last To Leave Ramen Noodle Pool Wins $20,000		 | leave money noodle pool ramen win	      | 7.227836e+07  | 7.115062e+07  |
 
-
 ### 5) Hypothesis Overview
 - Monetary values and numerical figures are the most frequently used words in the video titles.
 - Among the top 10 videos by view count, six of them involve monetary aspects, including giving, spending, and keeping money
@@ -125,15 +127,22 @@ Example of Testing Dataset with Actual View Count and Target View Count
 - Starting from 2015, MrBeast began uploading videos that are less than a minute long. This has noticeably impacted the correlation between Views vs Comments and Likes vs Comments, suggesting that users watching shorter videos may be less inclined to leave comments
 - Starting from 2019, Mr. Beast predominantly uploads videos on Saturdays.
 - With a limited sample size of 1000 comments per video, the sentiment analysis suggests that, on average, the majority of comments are neutral (80%), while 16% are positive, and only a minimal 4% are negative.
-- The video titled 'Dude Perfect 4.0 - We Are Totally Better' stands out with the highest percentage of negative comments at 0.2%. Examples of negative remarks include expressions like 'you suck', 'y'all are so fake', 'Whole video is fake', 'Go to hell ya suckers' 
+- The video titled 'Dude Perfect 4.0 - We Are Totally Better' stands out with the highest percentage of negative comments at 0.2%. Examples of negative remarks include expressions like 'you suck', 'y'all are so fake', 'Whole video is fake', 'Go to hell ya suckers'
+- 
+</details>
 
 ## **Installation**
 
+<details>
+  <summary>Installation</summary>
+  
 The code is developed using Python version 3.7.16. If Python is not already installed on your system, you can download it [here](https://www.python.org/downloads/). If your current Python version is lower than 3.7.16, you can upgrade it using the pip package manager. Make sure you have the latest version of pip installed. To install the necessary packages and libraries, execute the following command in the project directory after cloning the repository:
 
 ```bash
 pip install -r requirements.txt
 ```
+  </details>
+  
 ## **DashBoard - Power BI**
 The project's interactive dashboard serves as a central hub for exploring and interpreting the comprehensive analysis of MrBeast's content. Developed using Power BI, the dashboard offers users a visually engaging and user-friendly interface, making it easy to derive meaningful insights from the data.
 
