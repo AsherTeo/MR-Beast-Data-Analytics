@@ -10,7 +10,15 @@ Additionally, for data cleaning and NLP tasks, the project uses the `nltk` and `
 
 The dashboard boasts a user-friendly interface, making it easy for users to explore and interpret the data. Additionally, for enhanced interactivity and visualization, **Power BI** is integrated to create an engaging and insightful dashboard.
 
+## Objective
+
+The primary objective of this project is to employ machine learning techniques, specifically using `scikit-learn` in Python, to predict the view count of MrBeast's videos. This overarching goal involves leveraging Python as the primary tool for all data-related tasks, including data extraction, data wrangling, exploratory data analysis (EDA), and the development of predictive models.
+
 ## Key Features
+
+<details>
+  <summary>Key Features</summary>
+   
 - Comprehensive analysis of MrBeast's video content.
 - Extraction of data from YouTube API using Python.
 - Data wrangling with the `pandas` library.
@@ -18,13 +26,13 @@ The dashboard boasts a user-friendly interface, making it easy for users to expl
 - Utilization of `nltk` and `strings` libraries for data cleaning and NLP tasks.
 - Application of machine learning techniques, specifically with `scikit-learn`, for predictive modeling.
 - User-friendly interface for easy exploration.
+</details>
 
-## Objective
+## Specific Objectives:
 
-The primary objective of this project is to employ machine learning techniques, specifically using `scikit-learn` in Python, to predict the view count of MrBeast's videos. This overarching goal involves leveraging Python as the primary tool for all data-related tasks, including data extraction, data wrangling, exploratory data analysis (EDA), and the development of predictive models.
-
-### Specific Objectives:
-
+<details>
+  <summary>Specific Objectives</summary>
+   
 1. **Top 10 Videos Based on View Count:**
    Identify and present the top 10 videos by view count to highlight MrBeast's most popular content.
 
@@ -48,6 +56,8 @@ The primary objective of this project is to employ machine learning techniques, 
 
 8. **Develop a Machine Learning Model to Predict Video View Count:**
   Utilize machine learning techniques, specifically with `scikit-learn`, to develop a predictive model that accurately estimates the view count of MrBeast's videos based on various features.
+
+</details>
 
 ## Methodology
 
