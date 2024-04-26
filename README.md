@@ -16,9 +16,6 @@ The primary objective of this project is to employ machine learning techniques, 
 
 ## Key Features
 
-<details>
-  <summary>Key Features</summary>
-   
 - Comprehensive analysis of MrBeast's video content.
 - Extraction of data from YouTube API using Python.
 - Data wrangling with the `pandas` library.
@@ -26,7 +23,6 @@ The primary objective of this project is to employ machine learning techniques, 
 - Utilization of `nltk` and `strings` libraries for data cleaning and NLP tasks.
 - Application of machine learning techniques, specifically with `scikit-learn`, for predictive modeling.
 - User-friendly interface for easy exploration.
-</details>
 
 ## Specific Objectives:
 
