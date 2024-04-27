@@ -169,7 +169,11 @@ The code is developed using Python version 3.7.16. If Python is not already inst
 pip install -r requirements.txt
 ```
   </details>
-  
+ 
+ ## Dashboard - Power BI
+
+<a name="dashboard-power-bi"></a>
+ 
 ## **DashBoard - Power BI**
 The project's interactive dashboard serves as a central hub for exploring and interpreting the comprehensive analysis of MrBeast's content. Developed using Power BI, the dashboard offers users a visually engaging and user-friendly interface, making it easy to derive meaningful insights from the data.
 
