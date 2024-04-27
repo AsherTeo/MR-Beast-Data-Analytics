@@ -10,7 +10,7 @@
 6) [Result](#result)
 7) [Hypothesis Overview](#hypothesis-overview)
 8) [Installation](#Installation)
-9) [DashBoard-Power BI](#dashBoard-Power-BI)
+9) [DashBoard- Power BI](#dashBoard-Power-BI)
 
    
 ## Overview
