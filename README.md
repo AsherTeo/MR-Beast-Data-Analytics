@@ -1,5 +1,18 @@
 # MrBeast Analysis with Dashboard(Below)
 
+## Table of Contents
+
+1) [Overview](#overview)
+2) [Objective](#objective)
+3) [Key Features](#key-features)
+4) [Specific Objectives](#specific-objectives)
+5) [Methodology](#methodology)
+6) [Result](#result)
+7) [Hypothesis Overview](#hypothesis-overview)
+8) [Installation](#Installation)
+9) [DashBoard - Power BI](#DashBoard-Power BI)
+
+   
 ## Overview
 
 This project features a comprehensive analysis dashboard for MrBeast's content. The dashboard, implemented in Power Bi , provides insights into various aspects of MrBeast's videos, engagement metrics, and more. The data is extracted from the YouTube API, and Python is utilized for data wrangling, leveraging the powerful `pandas` library.
